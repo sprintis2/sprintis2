@@ -11,6 +11,9 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/sprintis2/threat-hunting-scenario-tor-)**
 
+## 🔐 **Microsoft Entra ID Projects**
+
+
 <hr/>
 
 ## 🤳 Connect With Me
